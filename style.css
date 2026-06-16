@@ -1,11 +1,12 @@
 body {
     background-color: lightblue;
+    font-family: roboto;
 }
 p {
     font-family: verdana;
     font-size: 20px;
     color: blue;
-    background-color: lightgray;
+
 }
 
 /* Contact Us Page Styles */
